@@ -2,11 +2,12 @@
 
 I build AI systems that coordinate multiple LLMs and can be checked, not just trusted.
 
-M.S. student, National Taiwan University of Science and Technology · B.S. in Electrical Engineering (Communications), Tamkang University
+AI Architect, AI startup (in formation) · M.S. student, National Taiwan University of Science and Technology · B.S. in Electrical Engineering (Communications), Tamkang University
 
 ## What I'm building: LAVA
 
-I am building **LAVA (LLM-Augmented Validation & Analysis)** in an early-stage AI venture.
+I am the **AI Architect** of an AI startup in formation, working with its founder to build
+**LAVA (LLM-Augmented Validation & Analysis)**.
 LAVA is a domain-agnostic multi-model control plane. It routes each task (extraction, generation,
 verification, reasoning) to a suitable model, checks model health before binding it to a task,
 and keeps private data on local models. Each domain plugs in its own knowledge sources,
