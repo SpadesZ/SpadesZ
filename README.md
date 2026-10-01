@@ -8,11 +8,11 @@ AI Architect, AI startup (in formation) · M.S. student, National Taiwan Univers
 
 Three public projects you can inspect and try:
 
-| Project | What it does | Current boundary |
-| --- | --- | --- |
-| [PC-MEF](https://github.com/SpadesZ/PC-MEF) | Tests camera and depth sensing for liquid-state recognition inside pipes | Research in progress; final evaluation incomplete |
-| [Dev Triangle MCP](https://github.com/SpadesZ/dev-triangle-mcp) | Keeps coding-agent handoffs, patch reviews, and test results together | Local tools implemented; real handoffs need provider setup |
-| [Codex IME Enter Guard](https://github.com/SpadesZ/codex-ime-enter-guard) | Helps avoid accidental messages during CJK typing on Windows | Early release; behavior depends on the input method |
+- **[PC-MEF](https://github.com/SpadesZ/PC-MEF)** — Camera and depth sensing for liquid-state recognition inside pipes. Research in progress; final evaluation is incomplete.
+
+- **[Dev Triangle MCP](https://github.com/SpadesZ/dev-triangle-mcp)** — Coding-agent handoffs, patch reviews, and recorded test results. Local tools are implemented; real handoffs need provider setup.
+
+- **[Codex IME Enter Guard](https://github.com/SpadesZ/codex-ime-enter-guard)** — Helps avoid accidental messages while typing CJK text on Windows. Early release; behavior depends on the input method.
 
 [Explore by domain](#explore-by-domain) | [Contact](mailto:rickiekuo1203@gmail.com)
 
@@ -20,7 +20,7 @@ Three public projects you can inspect and try:
 
 ### Research Systems
 
-[PC-MEF](https://github.com/SpadesZ/PC-MEF) is the public research-code entry point. My other research work includes speech-recognition evaluation and tracking scientific evidence. Laboratory Innovation Brain belongs to this area; its core work is completed, while application work has not started.
+[PC-MEF](https://github.com/SpadesZ/PC-MEF) is the public research-code entry point. My other research work includes speech-recognition evaluation and tracking scientific evidence. Laboratory Innovation Brain belongs to this area: its core evidence and revision logic is implemented; lab applications are planned.
 
 ### Scientific & Engineering
 
@@ -56,7 +56,7 @@ evidence rules, and acceptance tests; the control plane stays the same.
 | Applied Software: enterprise data | **Secretarix / Querix**: natural-language-to-SQL with AST-level query checking. A secure Text-to-SQL assistant is also running in a tutoring-center management system: the model sees only view schemas, and generated SQL runs read-only under five layers of limits | Customer trial recorded in the earlier profile; no new deployment check here |
 | Applied Software: research literature | **roothinks**: from research question and paper parsing to a knowledge space and an editable Word manuscript | Working prototype |
 | Developer Tools: decision memory | **Rickie Second Brain**: traceable decision memory; the earlier profile recorded six acceptance criteria and a 24-question regression set | In progress |
-| Research Systems: scientific evidence | **Laboratory Innovation Brain**: traceable research-evidence system. Silicon photonics is the first domain pack | Core work completed; application work not started |
+| Research Systems: scientific evidence | **Laboratory Innovation Brain**: traceable research-evidence system. Silicon photonics is planned as the first domain pack | Core evidence and revision logic implemented; lab applications planned |
 
 ## Research interests
 
