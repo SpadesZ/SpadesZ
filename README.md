@@ -1,6 +1,6 @@
 # Ke-Jie Kuo 郭科頡
 
-Research, engineering, software, and developer tools.
+Research systems, scientific software, and developer tools.
 
 AI Architect, AI startup (in formation) · M.S. student, National Taiwan University of Science and Technology · B.S. in Electrical Engineering (Communications), Tamkang University
 
